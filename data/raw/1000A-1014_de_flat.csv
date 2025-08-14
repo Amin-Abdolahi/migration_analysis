@@ -1,0 +1,273 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label;value_q
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;18,8;%;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;15589690;Anzahl;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD3;Geburtsland (Gruppen);;Insgesamt;82719540;Anzahl;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;81,2;%;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;67129850;Anzahl;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;76,7;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;8522123;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;24,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;445152;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD3;Geburtsland (Gruppen);;Insgesamt;2146443;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;92,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;1447161;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;8,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;176213;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD3;Geburtsland (Gruppen);;Insgesamt;6207278;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;80,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;10432344;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;24,9;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;894047;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;23,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;2581917;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;72,9;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;505069;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;14,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;408796;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;75,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;1363694;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;75,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;2702955;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;16,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;1303512;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD3;Geburtsland (Gruppen);;Insgesamt;4094169;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;17,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;173205;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD3;Geburtsland (Gruppen);;Insgesamt;4038131;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;91,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;2321049;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;79,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;14164486;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD3;Geburtsland (Gruppen);;Insgesamt;1006864;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;18,8;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;769291;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;8,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;339607;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;82,8;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;833659;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;92,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;1975426;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD3;Geburtsland (Gruppen);;Insgesamt;7943265;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD3;Geburtsland (Gruppen);;Insgesamt;2534075;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;76,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;4739925;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;86,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;2518740;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD3;Geburtsland (Gruppen);;Insgesamt;11104040;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;27,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;188135;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD3;Geburtsland (Gruppen);;Insgesamt;1570817;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;91,7;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;1934183;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD3;Geburtsland (Gruppen);;Insgesamt;693204;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;7,9;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;123652;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;81,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;3324878;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD3;Geburtsland (Gruppen);;Insgesamt;2110396;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD3;Geburtsland (Gruppen);;Insgesamt;3596999;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;23,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;1467353;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD3;Geburtsland (Gruppen);;Insgesamt;13038724;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;91,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;3698524;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;8,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;171022;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD3;Geburtsland (Gruppen);;Insgesamt;1808846;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD3;Geburtsland (Gruppen);;Insgesamt;2927542;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;20,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;2606378;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;8,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;213024;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;20,8;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD3;Geburtsland (Gruppen);AUSLAND;Ausland und Sonstige;3726003;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD3;Geburtsland (Gruppen);;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD3;Geburtsland (Gruppen);;Insgesamt;17890489;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;83,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD3;Geburtsland (Gruppen);LAND000;Deutschland;6639752;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;3796;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;3,7;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;109172;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);8,8;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);1142306;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;1,9;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;39937;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);2,9;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);63232;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;83,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;6639752;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;20952;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;11,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;78026;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;16030;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;72,9;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;505069;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);9,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);1014061;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;6,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;254184;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;5,5;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;719763;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);4,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);133778;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;91,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;2321049;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;2,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;66565;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;80,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;10432344;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;2,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;41982;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);3,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);69695;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;7,5;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;838061;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;4142;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;91,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;3698524;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;4975;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;9,8;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;353227;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;27751;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);8,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);501670;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;79,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;14164486;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;4,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;42733;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;10,7;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;193362;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;5,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;230131;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;839;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;40107;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;6,7;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;121871;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;1,8;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;28607;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;3,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;124919;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;75,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;2702955;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;6450;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;92,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;1975426;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);3,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);120244;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);5,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);422330;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;86,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;2518740;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;76,7;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;8522123;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;6,9;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;1228062;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;2,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;56944;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);7,5;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);268711;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;2,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;36074;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;6,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;707092;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;76,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;4739925;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;22704;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;6,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;1181005;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);7,5;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);51908;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;82,8;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;833659;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;10716;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;2,9;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;61603;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;7,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;267966;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);3,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);83064;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;91,7;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;1934183;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);7,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);1276826;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;5,8;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;462432;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;81,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;3324878;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;8,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;57363;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;6125;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;2,9;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;62011;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;8,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;517366;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);6,9;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);124618;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);6,7;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);274796;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;75,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;1363694;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;2,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;88203;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);3,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);52847;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;5,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;402721;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;10178;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;5301;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;5,5;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;716557;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);6,5;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);64993;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;6,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;64412;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;5,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;155130;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;6,9;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;427367;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;92,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;1447161;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;6242;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;1069;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;0,2;%;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD6;Geburtsland (Gruppen);GBL-SONST;Sonstige;187782;Anzahl;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;6,1;%;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD6;Geburtsland (Gruppen);GBL-WELT-SONST;Sonstige Welt;5082103;Anzahl;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;5,6;%;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD6;Geburtsland (Gruppen);GBL-EUR-SONST;Sonstiges Europa;4654141;Anzahl;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);6,8;%;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD6;Geburtsland (Gruppen);GBL-EU27-2020;EU27-Land (EU_2020);5665661;Anzahl;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;81,2;%;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;GBTLD6;Geburtsland (Gruppen);LAND000;Deutschland;67129850;Anzahl;PRS001;Personen;e

@@ -1,0 +1,103 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label;value_q
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;4,9;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;76211;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;STAZG1;Staatsangehörigkeit;;Insgesamt;4094169;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;85,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;15322409;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;14,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;1860563;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;STAZG1;Staatsangehörigkeit;;Insgesamt;3596999;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;STAZG1;Staatsangehörigkeit;;Insgesamt;2927542;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;10,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;816624;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;5,8;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;146229;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;94,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;2022844;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;95,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;1494602;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;STAZG1;Staatsangehörigkeit;;Insgesamt;2146443;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;STAZG1;Staatsangehörigkeit;;Insgesamt;7943265;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;STAZG1;Staatsangehörigkeit;;Insgesamt;11104040;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;STAZG1;Staatsangehörigkeit;;Insgesamt;1006864;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;83,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;5166668;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;12,5;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;511717;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;6,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;252465;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;16,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;1844247;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;85,7;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;11178159;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;94,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;2387846;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;93,7;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;1978253;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;STAZG1;Staatsangehörigkeit;;Insgesamt;693204;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;STAZG1;Staatsangehörigkeit;;Insgesamt;4038131;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;20,6;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;142458;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;19,5;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;702976;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;8,8;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;258555;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;83,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;1503568;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;87,5;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;07;Rheinland-Pfalz;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;3582453;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;16,8;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;1040610;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;80,5;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;11;Berlin;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;2894022;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;13;Mecklenburg-Vorpommern;STAZG1;Staatsangehörigkeit;;Insgesamt;1570817;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;STAZG1;Staatsangehörigkeit;;Insgesamt;17890489;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;5,8;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;15;Sachsen-Anhalt;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;123597;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;89,7;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;03;Niedersachsen;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;7126640;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;13,1;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;131593;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;91,2;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;01;Schleswig-Holstein;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;2668988;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;14,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;05;Nordrhein-Westfalen;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;2568080;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;83,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;08;Baden-Württemberg;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;9259797;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;16,9;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;305279;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;86,9;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;10;Saarland;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;875271;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;12;Brandenburg;STAZG1;Staatsangehörigkeit;;Insgesamt;2534075;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;06;Hessen;STAZG1;Staatsangehörigkeit;;Insgesamt;6207278;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;79,4;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;04;Bremen;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;550746;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;6,3;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;132143;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;16;Thüringen;STAZG1;Staatsangehörigkeit;;Insgesamt;2110396;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;02;Hamburg;STAZG1;Staatsangehörigkeit;;Insgesamt;1808846;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;09;Bayern;STAZG1;Staatsangehörigkeit;;Insgesamt;13038724;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;93,7;%;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEOBL1;Bundesländer;14;Sachsen;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;3785668;Anzahl;PRS018;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;13,2;%;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;STAZG1;Staatsangehörigkeit;AUSLAND;Ausland und Sonstige;10913347;Anzahl;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;STAZG1;Staatsangehörigkeit;;Insgesamt;100,0;%;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;STAZG1;Staatsangehörigkeit;;Insgesamt;82719540;Anzahl;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;86,8;%;PRS001;Personen;e
+1000A;Bevölkerung kompakt (Gebietsstand 15.05.2022);STAG;Stichtag;2022-05-15;GEODL1;Deutschland;DG;Deutschland;STAZG1;Staatsangehörigkeit;LAND000;Deutschland;71806193;Anzahl;PRS001;Personen;e
